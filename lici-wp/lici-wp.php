@@ -10,34 +10,6 @@ Author: LIci team [ Alexander Timofeev, Vlad Jdanov ]
 Author URI: http://www.reactant.ru/project
 */
 
-
-/*  Copyright 2009  Alexander Timofeev  (email : atimofeev@reactant.ru)
-
-	Creative Commons Attribution-Noncommercial-No Derivative Works 3.0
-	http://creativecommons.org/licenses/by-nc-nd/3.0/
-
-	You are free:
-	to Share — to copy, distribute and transmit the work
-
-	Under the following conditions:
-	Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-	Noncommercial. You may not use this work for commercial purposes.
-	No Derivative Works. You may not alter, transform, or build upon this work.
-
-	For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
-	Any of the above conditions can be waived if you get permission from the copyright holder.
-	Nothing in this license impairs or restricts the author's moral rights.
-
-
-	Лицензия «С указанием авторства — Некоммерческая — Без производных»
-
-	Эта лицензия позволяет копировать, распространять и делиться с другими до тех пор, пока упоминается авторство и сохраняется ссылка на www.lici.ru
-	Эта лицензия не разрешает ни под каким видом вносить изменения в код продукта или использовать его в коммерческих целях.
-
-
-*/
-
-
 /* Активация
 ----------------------------------------------- */
 session_start();
