@@ -1,0 +1,14 @@
+#sidebar .lici_widget h2, .lici_widget h2 {margin-bottom:10px;} 
+#sidebar .lici_widget ul li:before, .lici_widget ul li:before {content:""} 
+	#sidebar .lici_widget ul li a, .lici_widget ul li a {display:block;padding:3px 0 3px 21px;}
+	#sidebar .lici_widget ul li a, .lici_widget ul li a {background-repeat:no-repeat;background-position:0 3px;}
+	#sidebar .lici_widget ul li.lici-liru a, .lici_widget ul li.lici-liru a {background-image:url(http://favicon.yandex.ru/favicon/www.liveinternet.ru);}
+	#sidebar .lici_widget ul li.lici-lj a, .lici_widget ul li.lici-lj a{background-image:url(http://favicon.yandex.ru/favicon/www.livejournal.com);}
+	#sidebar .lici_widget ul li.lici-mail a, .lici_widget ul li.lici-mail a {background-image:url(http://favicon.yandex.ru/favicon/www.blogs.mail.ru);}
+	#sidebar .lici_widget ul li.lici-yaru a, .lici_widget ul li.lici-yaru a {background-image:url(http://img-css.friends.yandex.net/favicon.ico);}
+	#sidebar .lici_widget ul li.lici-blogger a, .lici_widget ul li.lici-blogger a {background-image:url(http://favicon.yandex.ru/favicon/www.blogger.com);}
+	#sidebar .lici_widget ul li.lici-diarea a, .lici_widget ul li.lici-diarea a {background-image:url(http://favicon.yandex.ru/favicon/www.diary.ru);}
+	#sidebar .lici_widget ul li.lici-blogru a, .lici_widget ul li.lici-blogru a {background-image:url(http://favicon.yandex.ru/favicon/www.blog.ru);}
+	#sidebar .lici_widget ul li.lici-twitter a, .lici_widget ul li.lici-twitter a {background-image:url(http://favicon.yandex.ru/favicon/www.twitter.com);}
+	#sidebar .lici_widget ul li.lici-juick a, .lici_widget ul li.lici-juick a {background-image:url(http://i.juick.com/favicon.png);}
+#sidebar .lici_widget strong, .lici_widget strong {font-style:italic;font-size:0.8em; display:block; margin-top:10px;}
